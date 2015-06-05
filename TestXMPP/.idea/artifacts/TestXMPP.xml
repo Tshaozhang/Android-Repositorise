@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="TestXMPP">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestXMPP</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+        <option name="proGuardCfgFiles">
+          <list>
+            <option value="file://%MODULE_SDK_HOME%/tools/proguard/proguard-android.txt" />
+          </list>
+        </option>
+      </options>
+    </properties>
+    <root id="archive" name="TestXMPP.apk">
+      <element id="android-final-package" facet="TestXMPP/android/Android" />
+    </root>
+  </artifact>
+</component>

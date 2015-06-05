@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/nineoldandroids-2.4.0-7f4a378675a63c9f2bdcde59d64b9c26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/asmack-android-6-79c5be428242ef9e35a9f4006affcc30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/asmack-android-6-bc76fd482b2256dd1d12cd1d06bc8fb5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-154e0c596c5cdb341778672386f198cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/nineoldandroids-2.4.0-c38c1d0cf1191aab3c45cc4f25af575f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-b2276516ef63be0f29dee44568a7a19f.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
